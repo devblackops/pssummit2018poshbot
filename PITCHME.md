@@ -16,18 +16,17 @@ Level up and change your culture with chat and PowerShell
 
 ## ChatOps
 
-> "We're taking the things we're already doing and putting them in line with the conversations we're already having."
-  -James Fryman (StackStorm)
+> "We're taking the things we're already doing and putting them in line with the conversations we're already having." - James Fryman (StackStorm)
 
 ---
 
 ## Tools
 
-- Hubot
-- ErrBot  |
-- Cog     |
-- Lita    |
-- PoshBot |
+- Hubot (CoffeScript)
+- ErrBot (Python)  |
+- Cog (Elixer)     |
+- Lita (Ruby)    |
+- PoshBot (PowerShell) |
 - Bot in language of choice (pick your poison) |
 
 ---

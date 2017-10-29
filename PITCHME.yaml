@@ -1,5 +1,4 @@
-theme : night
-transition : none
+#theme : night
 highlight : monokai
 published : false
 transition: fade

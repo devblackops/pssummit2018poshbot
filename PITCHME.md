@@ -5,6 +5,106 @@ Level up and change your culture with chat and PowerShell
 
 ---
 
+## whoami
 
+* Brandon Olin
+* Lead Systems Engineer @Columbia Sportswear
+* @devblackops
+* github.com/devblackops
 
+---
 
+## ChatOps
+
+> "We're taking the things we're already doing and putting them in line with the conversations we're already having."
+  -James Fryman (StackStorm)
+
+---
+
+## Tools
+
+- Hubot
+- ErrBot  |
+- Cog     |
+- Lita    |
+- PoshBot |
+- Bot in language of choice (pick your poison) |
+
+---
+
+## Social Benifits
+
+- Knowledge Sharing       |
+- Team Empowerment        |
+- Situational Awareness   |
+- Faster Onboarding       |
+- Enables Retrospectives  |
+
+---
+
+## Technical Benefits
+- Increased Automation                    |
+- Reduced MTTR (mean time to resolution)  |
+- Better History/Logging                  |
+- Improved Safety                         |
+- Many more                               |
+
+---
+
+## What Can Bots Do?
+- Restart services                         |
+- Query APIs                               |
+- Modify AD group membership               |
+- Create VMs                               |
+- Run Azure Automation runbooks            |
+- Deploy code / kick off pipeline          |
+- Anything really...                       |
+- If PowerShell can do it, so can the bot  |
+
+---
+
+## How to Get There
+- Start small (readonly)    |
+- Low friction onboarding   |
+- Make it easy to do the right thing (fall into the pit of success) |
+
+---
+
+# PoshBot Overview
+-  Class-based
+- PowerShell 5
+- Modules for bot command packaging/distribution (PSGallery)
+- Role-Based Access Control
+- Command/event/regex/scheduled triggers
+- Approval workflow
+- Multiple chat networks* (Slack only right now)
+
+---
+
+## PoshBot Architecture
+* Simple diagram
+
+---
+
+# Demo Time!
+
+---
+
+## T.Hanks
+
+```
+Brandon Olin
+github.com/poshbotio/poshbot
+@devblackops  github.com/devblackops  devblackops.io
+```
+
+### Other Interesting Stuff
+|Name | Link
+|-----|------|
+| Watchmen | https://github.com/devblackops/watchmen |
+| Watchmen | https://github.com/devblackops/watchmen
+| PSHealthZ| https://github.com/devblackops/PSHealthZ
+| POSHOrigin| https://github.com/devblackops/POSHOrigin
+| POSHOrigin_vSphere | https://github.com/devblackops/POSHOrigin_vSphere
+| NetScaler| https://github.com/devblackops/NetScaler
+| PasswordState| https://github.com/devblackops/PasswordState

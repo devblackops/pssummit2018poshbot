@@ -101,9 +101,9 @@ devblackops.io
 #### Other Interesting Stuff
 |Name | Link
 |-----|------|
-| Watchmen | https://github.com/devblackops/watchmen
-| PSHealthZ| https://github.com/devblackops/PSHealthZ
-| POSHOrigin| https://github.com/devblackops/POSHOrigin
-| POSHOrigin_vSphere | https://github.com/devblackops/POSHOrigin_vSphere
-| NetScaler| https://github.com/devblackops/NetScaler
-| PasswordState| https://github.com/devblackops/PasswordState
+| Watchmen | github.com/devblackops/watchmen
+| PSHealthZ| github.com/devblackops/PSHealthZ
+| POSHOrigin | github.com/devblackops/POSHOrigin
+| POSHOrigin_vSphere | github.com/devblackops/POSHOrigin_vSphere
+| NetScaler| github.com/devblackops/NetScaler
+| PasswordState| github.com/devblackops/PasswordState

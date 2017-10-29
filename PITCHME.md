@@ -69,9 +69,8 @@ Level up and change your culture with chat and PowerShell
 
 ---
 
-# PoshBot Overview
--  Class-based
-- PowerShell 5
+## PoshBot Overview
+- Class-based
 - Modules for bot command packaging/distribution (PSGallery)
 - Role-Based Access Control
 - Command/event/regex/scheduled triggers

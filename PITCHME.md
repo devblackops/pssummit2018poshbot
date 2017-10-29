@@ -90,7 +90,7 @@ Level up and change your culture with chat and PowerShell
 
 ## T.Hanks
 
-```
+```text
 Brandon Olin
 github.com/poshbotio/poshbot
 @devblackops
@@ -98,7 +98,10 @@ github.com/devblackops
 devblackops.io
 ```
 
-#### Other Interesting Stuff
+---
+
+## Other Interesting Stuff
+
 |Name | Link
 |-----|------|
 | Watchmen | github.com/devblackops/watchmen

@@ -90,6 +90,9 @@ Level up and change your culture with chat and PowerShell
 
 ## T.Hanks
 
+![thanks](assets/T.Hanks.jpg)
+
+
 ```text
 Brandon Olin
 github.com/poshbotio/poshbot

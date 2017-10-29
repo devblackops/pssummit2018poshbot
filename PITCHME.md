@@ -20,11 +20,11 @@ Level up and change your culture with chat and PowerShell
 
 ---
 
-## Tools
+## Tools & Languages
 
 - Hubot (CoffeScript)
 - ErrBot (Python)  |
-- Cog (Elixer)     |
+- Cog (Elixir)     |
 - Lita (Ruby)    |
 - PoshBot (PowerShell) |
 - Bot in language of choice (pick your poison) |
@@ -70,17 +70,18 @@ Level up and change your culture with chat and PowerShell
 ---
 
 ## PoshBot Overview
-- Class-based
-- Modules for bot command packaging/distribution (PSGallery)
-- Role-Based Access Control
-- Command/event/regex/scheduled triggers
-- Approval workflow
-- Multiple chat networks* (Slack only right now)
+- Class-based |
+- Modules for command packaging/distribution (PSGallery) |
+- Role-Based Access Control |
+- Command/event/regex/scheduled triggers |
+- Approval workflow |
+- Multiple chat networks* (Slack only right now) |
 
 ---
 
 ## PoshBot Architecture
-* Simple diagram
+
+![diagram](./assets/poshbot_architecture.png)
 
 ---
 

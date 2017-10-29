@@ -93,13 +93,14 @@ Level up and change your culture with chat and PowerShell
 ```
 Brandon Olin
 github.com/poshbotio/poshbot
-@devblackops  github.com/devblackops  devblackops.io
+@devblackops
+github.com/devblackops
+devblackops.io
 ```
 
-### Other Interesting Stuff
+#### Other Interesting Stuff
 |Name | Link
 |-----|------|
-| Watchmen | https://github.com/devblackops/watchmen |
 | Watchmen | https://github.com/devblackops/watchmen
 | PSHealthZ| https://github.com/devblackops/PSHealthZ
 | POSHOrigin| https://github.com/devblackops/POSHOrigin
